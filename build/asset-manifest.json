@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74438e6c.css",
+    "main.js": "/static/js/main.9afa4263.js",
+    "static/js/453.3763777c.chunk.js": "/static/js/453.3763777c.chunk.js",
+    "static/media/magi_pomes_logo.svg": "/static/media/magi_pomes_logo.e693b16dc3255f53864db81a663e1ec6.svg",
+    "index.html": "/index.html",
+    "main.74438e6c.css.map": "/static/css/main.74438e6c.css.map",
+    "main.9afa4263.js.map": "/static/js/main.9afa4263.js.map",
+    "453.3763777c.chunk.js.map": "/static/js/453.3763777c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74438e6c.css",
+    "static/js/main.9afa4263.js"
+  ]
+}
