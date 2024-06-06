@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/magi-pomes/static/css/main.74438e6c.css",
+    "main.js": "/magi-pomes/static/js/main.8e0df578.js",
+    "static/js/453.3763777c.chunk.js": "/magi-pomes/static/js/453.3763777c.chunk.js",
+    "static/media/magi_pomes_logo.svg": "/magi-pomes/static/media/magi_pomes_logo.e693b16dc3255f53864db81a663e1ec6.svg",
+    "index.html": "/magi-pomes/index.html",
+    "main.74438e6c.css.map": "/magi-pomes/static/css/main.74438e6c.css.map",
+    "main.8e0df578.js.map": "/magi-pomes/static/js/main.8e0df578.js.map",
+    "453.3763777c.chunk.js.map": "/magi-pomes/static/js/453.3763777c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74438e6c.css",
+    "static/js/main.8e0df578.js"
+  ]
+}
