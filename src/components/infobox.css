@@ -1,0 +1,28 @@
+.info_box {
+    max-width: 100%;
+    margin: auto;
+}
+
+.info_box--logo {
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    margin: auto;
+}
+
+.info_box--content {
+    font-size: 1rem;
+    line-height: 1.625rem;
+}
+
+@media screen and (min-width: 768px) {
+    .info_box {
+        max-width: calc(50% - 20px);
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .info_box {
+        max-width: calc(100% / 3 - 20px);
+    }
+}
